@@ -29,7 +29,7 @@ import time
 
 beg = time.time()
 
-filein = open('triangle.txt','r')
+filein = open('p67_triangle.txt','r')
 lines = filein.read().splitlines()
 
 num = []
